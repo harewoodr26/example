@@ -1,2 +1,2 @@
 # example
-git training
+an example repository
